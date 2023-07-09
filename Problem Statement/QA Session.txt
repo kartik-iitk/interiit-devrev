@@ -1,0 +1,14 @@
+colab cpu - 4 gb ram - 200 ms per query for both tasks
+expecting own models... can use pretrained model -> fine-tune it
+500 paragraphs per theme. No guarantee if answer exists. If multiple para -> one para is enough.
+Theme will be given -> navigate para related to theme: (theme, question) will be given in query.
+No additional data can be used for training.
+Theme and corresponding paragraphs will be shared.. fine tune it.
+No limit for training. Exact hardware for testing will be shared.
+Domain specific qa (not a generic qa). Focus on that.
+Sample inference notebook will be shared.
+Penalties will not be very harsh. More details will be shared.
+From the given dataset, new questions can be created and used for training.
+Only free Colab can be used for training. More details on that later.
+Answer should be - exact substring from paragraph.
+Also, No API calls are allowed in the submitted code.

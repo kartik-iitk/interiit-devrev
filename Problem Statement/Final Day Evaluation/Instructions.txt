@@ -1,0 +1,16 @@
+Hi Teams,
+
+Kicking off our final evaluation round. Hope you are up and ready for the challenge.
+In this mail, we are sending you paragraphs and question-answers related to 30 themes using which you can fine tune your global/theme models. At 4 PM, you'd receive new questions for these themes for which you'd have to send your predictions. The format of these files is same as the sample files we sent you earlier with the sample eval notebook. Let us know if you have any questions.
+Thanks for all your hard work for this problem statement. Wishing you all the best for this final round.
+
+Hi Teams,
+
+Please find the attached test questions file for which you have to submit your model predictions by 8 PM today.
+Attached files:
+sample_input_question.csv : File containing list of questions along with their themes. File name kept same as the sample eval notebook to use the same load method.
+sample_theme_interval.csv: File containing start and end pointer for each theme. Again the same load function present in sample eval notebook can be used to get all questions for a theme and run your inference on top of it.
+
+Submission format:
+output_prediction.csv: File containing your prediction for all questions. Format must be the same as that of sample_output_prediction.csv shared earlier.
+To reiterate, for each question, you've to predict a paragraph id which can answer that question and an answer. If a question is unanswerable, predict -1 for paragraph id and empty string as the answer.

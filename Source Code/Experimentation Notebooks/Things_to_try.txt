@@ -1,0 +1,14 @@
+Had a discussion with ashwin, these are some things that we should try out.
+
+- SPANN for nearest neighbours
+- Dense Passage Retrieval : 
+    * coCondenser
+    * rocketQA
+- Information retrieval 
+	* uniCOIL
+- Contrastive Learning: 
+    * simCSE
+- PAIR : The learning interpretability tool : https://pair-code.github.io/lit/
+- Mixture of Experts (MoE) : https://arxiv.org/pdf/2101.03961.pdf
+- BM25 is the default similarity ranking (relevancy) algorithm in Elasticsearch.
+- Look at bf16

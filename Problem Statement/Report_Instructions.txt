@@ -1,0 +1,9 @@
+Report: Please find attached the sample report template which teams can use while preparing their final report. Report page limit is set at 8 pages(excluding survey and references section).
+
+Presentation round:
+10 mins: Presentation(~7min) + QA round(~3 min)
+Slides should typically consist of following sections:
+Team
+Methodology (Paragraph retrieval, QA)
+Results & runtime analysis
+Key learnings
